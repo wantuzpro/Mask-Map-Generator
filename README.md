@@ -13,6 +13,6 @@ Features:
 
 ScreenShots:
 
-![ui](https://github.com/wantuzpro/Mask-Map-Generator/raw/main/ui.png)
-![screenshot1](https://github.com/wantuzpro/Mask-Map-Generator/raw/main/screenshot1.png)
-![screenshot2](https://github.com/wantuzpro/Mask-Map-Generator/raw/main/screenshot2.png)
+![ui](https://github.com/wantuzpro/Mask-Map-Generator/raw/main/ScreenShots/ui.png)
+![screenshot1](https://github.com/wantuzpro/Mask-Map-Generator/raw/main/ScreenShots/screenshot1.png)
+![screenshot2](https://github.com/wantuzpro/Mask-Map-Generator/raw/main/ScreenShots/screenshot2.png)
