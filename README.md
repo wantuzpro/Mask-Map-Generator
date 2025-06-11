@@ -10,3 +10,9 @@ Features:
 • Automatic texture preparation (Includes texture reading and disables sRGB in texture import settings)
 
 • Option to choose the save location for the mask map
+
+ScreenShots:
+
+![ui](https://github.com/wantuzpro/Mask-Map-Generator/raw/main/ui.png)
+![screenshot1](https://github.com/wantuzpro/Mask-Map-Generator/raw/main/screenshot1.png)
+![screenshot2](https://github.com/wantuzpro/Mask-Map-Generator/raw/main/screenshot2.png)
